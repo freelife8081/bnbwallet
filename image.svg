@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg"   height='250' width='250'>
+   <circle r="120" cx="125" cy="125" fill="blue" stroke="red" stroke-dasharray="211" stroke-offset="211" stroke-width="10px" />
+   <circle r="100" cx="125" cy="125" fill="green" stroke="red" stroke-width="10px" />
+   <circle r="80" cx="125" cy="125" fill="yellow" stroke="red" stroke-width="10px" />
+   <circle r="60" cx="125" cy="125" fill="black" stroke="red"  stroke-width="10px" />
+   <circle r="40" cx="125" cy="125" fill="purple" stroke="red" stroke-width="10px" />
+   <rect x="25" y="25" height="200" width="200" fill="none" stroke-width="10px" stroke="grey" />
+</svg>
